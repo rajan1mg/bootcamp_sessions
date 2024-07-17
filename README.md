@@ -12,7 +12,7 @@
 
 ## Run Configurations
 - Pycharm 
-  - module > app.server
+  - module >> app.server
   - working dir > complete path till "project repo"
 - ensure virtual env is activated (venv preferred)
 - python3 -m app.server
