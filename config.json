@@ -1,0 +1,7 @@
+{
+  "NAME": "Bootcamp_project_2024",
+  "HOST": "0.0.0.0",
+  "PORT": 8021,
+  "WORKERS": 1,
+  "DEBUG": true
+}
