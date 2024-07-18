@@ -8,7 +8,6 @@ __pycache__/
 # Distribution / packaging
 .Python
 alembic.ini
-config.py
 config_log.json
 env/
 build/
